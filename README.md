@@ -1,1 +1,1 @@
-## *Hi there 👋 I am Rustam, Software Engineer*
+## *Hi there, I am Rustam*
